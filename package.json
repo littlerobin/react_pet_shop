@@ -27,7 +27,7 @@
     "final-form-arrays": "^1.1.0",
     "google-maps-react": "^2.0.2",
     "helmet": "^3.18.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "mapbox-gl-multitouch": "^1.0.3",
     "moment": "^2.22.2",
     "object.entries": "^1.0.4",

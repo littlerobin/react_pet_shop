@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.286b89d3.css",
+    "main.js": "/static/js/main.f24978ff.js",
+    "main.js.map": "/static/js/main.f24978ff.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7432adc6a5195b0013fd978e05b25d35.js": "/precache-manifest.7432adc6a5195b0013fd978e05b25d35.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.286b89d3.css.map": "/static/css/main.286b89d3.css.map",
+    "static/media/about-us-1056.jpg": "/static/media/about-us-1056.d357e285.jpg",
+    "static/media/EmailVerificationPage.css": "/static/media/background-1440.40e4225d.jpg",
+    "static/media/how-1.png": "/static/media/how-1.2a87b135.png",
+    "static/media/how-2.png": "/static/media/how-2.49edf4ab.png",
+    "static/media/how-3.jpg": "/static/media/how-3.7565d60d.jpg",
+    "static/media/how-4.jpg": "/static/media/how-4.0b704fbe.jpg",
+    "static/media/how-5.jpg": "/static/media/how-5.6e2841ff.jpg",
+    "static/media/location_helsinki.jpg": "/static/media/location_helsinki.adc8ecdd.jpg",
+    "static/media/location_rovaniemi.jpg": "/static/media/location_rovaniemi.76057787.jpg",
+    "static/media/location_ruka.jpg": "/static/media/location_ruka.56ff837f.jpg",
+    "static/media/mobilelogo.png": "/static/media/mobilelogo.ad889378.png",
+    "static/media/FaqPage.css": "/static/media/petsitter.8e8fe947.jpg",
+    "static/media/saunatime-logo.png": "/static/media/saunatime-logo.7c4fe759.png",
+    "static/media/saunatimeFacebook-1200x630.jpg": "/static/media/saunatimeFacebook-1200x630.e62a59a0.jpg",
+    "static/media/saunatimeTwitter-600x314.jpg": "/static/media/saunatimeTwitter-600x314.509c5aa7.jpg",
+    "static/media/signup.jpg": "/static/media/signup.428f9e6b.jpg"
+  }
+}

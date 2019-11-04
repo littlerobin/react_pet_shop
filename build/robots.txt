@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /account
+Disallow: /reset-password
+Disallow: /verify-email
+Sitemap: http://localhost:4000/static/sitemap.xml

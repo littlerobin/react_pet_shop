@@ -1,0 +1,57 @@
+Aleksa information
+
+Github url: 
+https://github.com/AleksaCorona/flex-template-web
+
+	Login info
+	Username: AleksaCorona
+   	Pwd: aleksa959595
+
+	username: confessionstest@gmail.com
+	pwd: aleksa95
+
+Heroku url:  
+https://trustmypetsitter.herokuapp.com/
+
+	Login info
+	Username: aleksaprebiracevicorona@outlook.com
+   	Pwd: aleksa95
+
+	username:hamstomj@gmail.com
+	pwd:hamstomj920
+
+Template site url: 
+https://trustmypetsitter.com/
+
+Reference url:
+https://www.sharetribe.com/docs/guides/
+
+Heroku site login information:
+	email:hamstomj920
+	pwd:hamstomj920
+
+	client api:61c5d3be-0113-47c3-986f-2882fcfad165
+
+   
+
+Requirements:
+
+1. We need to mimic Create Listing from https://trustmypetsitter.com to 
+https://trustmypetsitter.herokuapp.com.
+
+
+2. When user clicks on Create Listing he will be redirected to a page where he will be
+able to pick wheter he is a Pet Owner / Pet Sitter / Pet Services. That will basically
+be categories which will then have different questions.
+
+
+3. So after user for example click Pet Service he will have a different questions while creating
+listing.
+
+
+4. The code as you may seen on REPO is a React App, and the support told me that for this
+programmer needs Redux experience.
+
+
+5. Please provide us with estimate time on how long will you need to finish this job?
+We need it done by the friday is it possible?
